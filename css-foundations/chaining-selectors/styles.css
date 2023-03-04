@@ -1,3 +1,7 @@
 .subsection.header {
     color:rebeccapurple;
 }
+
+.subsection#preview {
+    color: blue;
+}
