@@ -10,7 +10,7 @@
 }
 
 .flex-container .two {
-    flex: 3 1 0%;
+    flex-shrink: 0;
 }
 
 
