@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.parent {
+    background-color: cyan;
+    display:flex;
+    padding: 20px;
+}
+
+.child {
+    background-color: coral;
+    padding: 20px;
+    flex: 0 1 auto; 
+
+}
+
