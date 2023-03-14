@@ -1,0 +1,20 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    margin-left: 10px;
+}
+
+.card .content {
+    flex:1 1 auto;
+}
+
+.cards {
+
+    display:flex;
+}
+
+footer {
+
+    background-color: aquamarine;
+}
