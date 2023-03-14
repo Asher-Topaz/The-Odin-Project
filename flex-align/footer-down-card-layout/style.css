@@ -3,6 +3,7 @@
     flex-direction: column;
     border-style: solid;
     margin-left: 10px;
+    
 }
 
 .card .content {
@@ -14,7 +15,8 @@
     display:flex;
 }
 
-footer {
+.card footer {
 
     background-color: aquamarine;
+    
 }
